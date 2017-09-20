@@ -1,6 +1,6 @@
 version: '3'
 services:
-  web:
+  app:
     build: .
     image: romeomaryns/docker-seed
     ports:
@@ -12,7 +12,11 @@ services:
     image: postgres
     env_file: .env-postgres
     volumes:
+<<<<<<< HEAD
           - ./data:/var/lib/postgresql/data
+=======
+          - /c/psql-data:/var/lib/postgresql/data
+>>>>>>> d9b2575ff0d3d2d52d346bf86c36fd6f16c3cda6
     ports:
       - "5432:5432"
 

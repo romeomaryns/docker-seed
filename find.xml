@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'fix-docker'" />
-    <option name="defaultScopeName" value="Project 'fix-docker'" />
-    <option name="SEARCH_SCOPE" value="Project 'fix-docker'" />
+    <option name="customScope" value="Module 'instrument-service'" />
+    <option name="defaultScopeName" value="Module 'instrument-service'" />
+    <option name="SEARCH_SCOPE" value="Module 'instrument-service'" />
   </component>
 </application>

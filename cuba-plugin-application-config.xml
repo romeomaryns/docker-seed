@@ -1,0 +1,6 @@
+<application>
+  <component name="CubaPluginApplicationSettings">
+    <option name="repositoryUrl" value="https://repo.cuba-platform.com/content/groups/work" />
+    <option name="repositoryUser" value="cuba" />
+  </component>
+</application>

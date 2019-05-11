@@ -1,0 +1,110 @@
+<application>
+  <component name="BaseProjectsState">
+    <option name="repositories">
+      <list>
+        <RepositoryState>
+          <option name="baseProjectGroups">
+            <list>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="7.1-SNAPSHOT" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="7.0-SNAPSHOT" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="7.0.5" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="7.0.4" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="7.0.3" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="7.0.2" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="7.0.1" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="7.0.0" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="7.0.0.BETA4" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="7.0.0.BETA3" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="7.0.0.BETA1" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="6.10-SNAPSHOT" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="6.10.9" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="6.10.8" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="6.10.7" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="6.10.6" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="6.10.5" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="6.10.4" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="6.10.3" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="6.10.2" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="6.10.1" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="6.10.0" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
+                <option name="version" value="6.10.0.BETA1" />
+              </BaseProjectGroupState>
+            </list>
+          </option>
+          <option name="url" value="https://repo.cuba-platform.com/content/groups/work" />
+          <option name="user" value="cuba" />
+          <option name="password" value="3r6+CXYTcUs=" />
+          <option name="stateVersion" value="1" />
+        </RepositoryState>
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://schemas.haulmont.com/cuba/6.9/mainwindow.xsd" location="$USER_HOME$/.IdeaIC2019.1/system/extResources/aa999b7a_mainwindow.xsd" />
+  </component>
+</application>

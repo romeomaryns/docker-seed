@@ -15,6 +15,10 @@
               </BaseProjectGroupState>
               <BaseProjectGroupState>
                 <option name="name" value="platform" />
+                <option name="version" value="7.0.6" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
                 <option name="version" value="7.0.5" />
               </BaseProjectGroupState>
               <BaseProjectGroupState>
